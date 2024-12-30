@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Henrique Oliveira
+# 🧑🏻‍💻 Henrique Oliveira
 
 **`Desenvolvedor Web`**
 
