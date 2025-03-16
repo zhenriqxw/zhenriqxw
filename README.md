@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Henrique Gabriel de Assis Oliveira, tenho 18 anos, sou natural de Juiz de Fora - MG. Concluí meu ensino médio na Escola Estadual Almirante Barroso, com curso técnico de Desenvolvimento de Sistemas pelo projeto Trilhas do Futuro. Atualmente estou cursando Sistemas de Informação pela GRAN Faculdade.
+Me chamo Henrique Gabriel de Assis Oliveira, tenho 19 anos, sou natural de Juiz de Fora - MG. Concluí meu ensino médio na Escola Estadual Almirante Barroso, com curso técnico de Desenvolvimento de Sistemas pelo projeto Trilhas do Futuro. Atualmente estou cursando Sistemas de Informação pela GRAN Faculdade.
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zhenriqxw)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zhenriqxw)
