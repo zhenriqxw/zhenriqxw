@@ -1,11 +1,20 @@
-# 🧑🏻‍💻 Henrique Oliveira
+# 👩🏻‍💻 Henrique Oliveira
 
 **`Desenvolvedor Web`**
 
-Me chamo Henrique Gabriel de Assis Oliveira, tenho 19 anos, sou natural de Juiz de Fora - MG. Concluí meu ensino médio na Escola Estadual Almirante Barroso, com curso técnico de Desenvolvimento de Sistemas pelo projeto Trilhas do Futuro. Atualmente estou cursando Sistemas de Informação pela GRAN Faculdade.
+Olá! Sou o Henrique, um entusiasta da tecnologia em constante aprendizado e evolução na área de desenvolvimento web. Atualmente, estou me dedicando ao estudo e aprimoramento de linguagens e ferramentas como:
+
+Front-end: HTML, CSS, JavaScript
+
+Back-end: PHP, Python
+
+Outras tecnologias: (adicione aqui outras que você domina ou está estudando, como frameworks, bancos de dados, etc.)
+
+Estou sempre aberto a colaborações, trocas de conhecimento e novos desafios. Se quiser acompanhar minha jornada ou contribuir com meus projetos, fique à vontade para explorar meus repositórios!
+
+"Aprender é um processo contínuo, e cada linha de código é um passo nessa jornada."
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zhenriqxw)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zhenriqxw)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/henrique-oliveira-8ba966279/)
 
 ---
@@ -77,7 +86,7 @@ Me chamo Henrique Gabriel de Assis Oliveira, tenho 19 anos, sou natural de Juiz 
     height="200"
     style="padding-right: 10px;"  
     src="https://github-readme-stats.vercel.app/api?username=zhenriqxw&show_icons=true&theme=tokyonight&locale=pt-br"
-/> 
+/>
 
 <img
     align="left"
